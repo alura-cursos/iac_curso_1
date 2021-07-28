@@ -6,7 +6,4 @@
 *.tfstate
 *.tfstate.*
 
-# Crash log files
-crash.log
-
-iac-alura.pem
+*.pem

@@ -22,3 +22,4 @@ resource "aws_instance" "app_server" {
     Name = "Primeira instancia"
   }
 }
+
